@@ -1,0 +1,16 @@
+D:\LTCSDL\QLRP1\BLL\bin\Debug\BLL.exe.config
+D:\LTCSDL\QLRP1\BLL\bin\Debug\BLL.exe
+D:\LTCSDL\QLRP1\BLL\bin\Debug\BLL.pdb
+D:\LTCSDL\QLRP1\BLL\bin\Debug\DAO.exe
+D:\LTCSDL\QLRP1\BLL\bin\Debug\DTO.exe
+D:\LTCSDL\QLRP1\BLL\bin\Debug\DAO.pdb
+D:\LTCSDL\QLRP1\BLL\bin\Debug\DAO.exe.config
+D:\LTCSDL\QLRP1\BLL\bin\Debug\DTO.pdb
+D:\LTCSDL\QLRP1\BLL\bin\Debug\DTO.exe.config
+D:\LTCSDL\QLRP1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\LTCSDL\QLRP1\BLL\obj\Debug\BLL.Properties.Resources.resources
+D:\LTCSDL\QLRP1\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+D:\LTCSDL\QLRP1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\LTCSDL\QLRP1\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\LTCSDL\QLRP1\BLL\obj\Debug\BLL.exe
+D:\LTCSDL\QLRP1\BLL\obj\Debug\BLL.pdb
